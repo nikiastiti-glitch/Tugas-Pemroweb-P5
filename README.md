@@ -1,10 +1,10 @@
 1. HTML (index.html)
 HTML digunakan untuk membuat struktur halaman web, seperti:
 - (h2) untuk menampilkan judul.
-- <input> untuk memasukkan nilai mahasiswa.
-- <button> untuk menjalankan program.
-- <p> untuk menampilkan hasil nilai dan perulangan.
-- <script> untuk menghubungkan file JavaScript.
+- (input) untuk memasukkan nilai mahasiswa.
+- (button) untuk menjalankan program.
+- (p) untuk menampilkan hasil nilai dan perulangan.
+- (script) untuk menghubungkan file JavaScript.
 2. CSS (style.css)
 CSS digunakan untuk mengatur tampilan halaman, seperti jenis huruf, warna latar belakang, warna judul, ukuran input, dan tombol agar terlihat lebih rapi.
 3. JavaScript (script.js)
