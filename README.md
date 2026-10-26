@@ -1,6 +1,6 @@
 1. HTML (index.html)
 HTML digunakan untuk membuat struktur halaman web, seperti:
-- <h2>    untuk menampilkan judul.
+- <h2>, untuk menampilkan judul.
 - <input> untuk memasukkan nilai mahasiswa.
 - <button> untuk menjalankan program.
 - <p> untuk menampilkan hasil nilai dan perulangan.
